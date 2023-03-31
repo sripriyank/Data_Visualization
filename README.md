@@ -12,8 +12,11 @@ My main idea behind this project is to predict and understand the trend the real
 My goal is to find some of the research questions like:
 
 •	Understanding the property cost of apartments over different months?
+<br>
 •	Furthermore, I also like to find the housing cost over certain period.
+<br>
 •	What is the rate of housing when compared with real estate area rate?
+<br>
 
 ## Methodology:
 The Real estate Florida dataset holds details of Month of sale, Type of property, Area(ft.), Price, Country, State, it is vast data set which has 119,390 records from different countries. For this project I did data cleanup as our main goal is to focus on visualizations from combining the two datasets available.
