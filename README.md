@@ -68,7 +68,7 @@ Of all the visualizations this one clearly shows the distance between all the ci
 
 The above dashboard is an animated dashboard where you get the accurate results if you filter by month. However, I had used filter method for all the countries. This dashboard contains four visualizations related to evolution of growth in real estate business in Florida.
 
-### Dashboard 2: In this dashboard, we have two visualizations which has a map plot and pie chart.
+### Dashboard 2:
 
  
 ### Dashboard 3: 
