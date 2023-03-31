@@ -81,13 +81,10 @@ We can also see a clear pattern of increase of price in Tampa and decreasing pri
 
 ## Other Research Questions:
 
-## Visualization 7 & 8:
-
-
-### Price of property in each city in 2018
+## Visualization 7 :Price of property in each city in 2018
  
 
-### Price of property in each city in 2020
+## Visualization 8: Price of property in each city in 2020
  
 
 When I am surfing in web to find relevant information and datasets for my project, I found another interesting prediction that the price of housing in Florida hikes every year. To analyze this trend, I tried a check if this trend is continuing over the decade.
