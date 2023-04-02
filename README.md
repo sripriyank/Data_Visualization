@@ -37,6 +37,8 @@ Variables which are used for visualization in “Real estate”
 ## Analysis:
 
 ### Visualization 1:Month Wise Apartment Comparison on Property
+
+![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image3.jpg)
  
 
 In the first visualization, I did analysis for the total amount spent for Apartments under property category by each resident. I wanted to show the amount spent only for apartments on monthly basis. As we can see June and November months has the highest value when compared with the rest of the months in a year. At the bottom of the visualization, we can also see the different months starting from January to December
