@@ -22,6 +22,7 @@ My goal is to find some of the research questions like:
 <br>
 
 ## Methodology:
+<br>
 The Real estate Florida dataset holds details of Month of sale, Type of property, Area(ft.), Price, Country, State, it is vast data set which has 119,390 records from different countries. For this project I did data cleanup as our main goal is to focus on visualizations from combining the two datasets available.
 Real estate dataset has House age, Distance to the nearest MRT station, Number of convenience stores, latitude, longitude, house price of unit area, Date, Market segment for the Florida state for the years 2018, 2019 and 2020. I have taken these three years only because I have the property details for only these years.
 
@@ -37,6 +38,7 @@ Variables which are used for visualization in “Real estate”
 ## Analysis:
 
 ### Visualization 1:Month Wise Apartment Comparison on Property
+<br>
 
 ![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/images3.jpg)
  
@@ -45,6 +47,7 @@ In the first visualization, I did analysis for the total amount spent for Apartm
 In Real Estate business, we could also notice that the price has fallen in the months of February, March and April month. 
 
 ### Visualization 2:Year Wise House Comparison on property
+<br>
 
 ![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image4.jpg)
  
@@ -53,6 +56,7 @@ The very lowest ranking was seen in 2020 with a net worth of $45 	M. As we see i
  
 
 ### Visualization 3: House Price of each Unit according to Market Segment for each quarter
+<br>
 
 ![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image.jpg)
 
@@ -60,6 +64,7 @@ As the trend keeps on changing the value of the land will also be changed accord
 
  
 ### Visualization 4:Price of property in each city in Florida
+<br>
 
 ![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image5.jpg)
 
@@ -68,12 +73,14 @@ Almost all the states have different prices, where few of the states have less p
 
 
 ### Visualization 5:Year Wise prices comparison of Property
+<br>
 
 ![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image6.jpg)
 
 The main goal of this visualization is to show the complete prices for all the categories like (Apartments, House and Office) in Property field which we have in the dataset Real estate Florida. If you have a closer look at each category the value keeps on changing for year to year along with the price variations.
 
 ### Visualization 6:Distance Wise Month Price
+<br>
 
 ![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image7.jpg)
 
@@ -82,16 +89,19 @@ Of all the visualizations this one clearly shows the distance between all the ci
 
 
 ### Dashboard 1:
+<br>
 
 The above dashboard is an animated dashboard where you get the accurate results if you filter by month. However, I had used filter method for all the countries. This dashboard contains four visualizations related to evolution of growth in real estate business in Florida.
 
 ![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/dashboard1.jpg)
 
 ### Dashboard 2:
+<br>
 
 ![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/dashboard2.jpg)
   
 ## Conclusion:
+<br>
 
 After doing visualizations with the data I have, I tried to answer all the questions which I have mentioned in the initial project discussions. Price, City are the prime factor in my projects which lets everyone to compare it over years. We can expect this pattern will continue to dominate in the market. 
 We can also see a clear pattern of increase of price in Tampa and decreasing prices in rest of the cities. in the bookings for few months. January month has the highest spike in both.
