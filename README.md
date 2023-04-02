@@ -27,9 +27,11 @@ Real estate dataset has House age, Distance to the nearest MRT station, Number o
 
 Variables which are used in “Real estate Florida” dataset are
 
-
+![Variables](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image1.jpg)
 
 Variables which are used for visualization in “Real estate”
+
+![Variables](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image2.jpg)
 
 
 ## Analysis:
