@@ -66,6 +66,7 @@ As the trend keeps on changing the value of the land will also be changed accord
 In the below geographical map, we can see it is divided into two parts based on the type of hotel. This visualization shows many states included in US however I am concentrating on Florida real estate alone, so I am highlighting the cites along with its price.
 Almost all the states have different prices, where few of the states have less price compared to the population. In Florida, the highest property price was noted in the city Tampa with net worth of $65 M whereas the least prices are noted in the city PalmBay & Branden with 8 M each. We can observe this difference if we see each of these cities in this visualization.
 
+
 ### Visualization 5:Year Wise prices comparison of Property
 
 ![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image7.jpg)
