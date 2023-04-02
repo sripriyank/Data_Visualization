@@ -46,7 +46,7 @@ In Real Estate business, we could also notice that the price has fallen in the m
 
 ### Visualization 2:Year Wise House Comparison on property
 
-![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/images4.jpg)
+![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image4.jpg)
  
 
 The second visualization is a simple one, yet I wanted to show the amount spent for house on yearly basis under property category. From the above visualization, we can see that most of the amount was invested in the year 2018 with a net worth of $174 M when compared to the investments made in 2019 and 2020.
