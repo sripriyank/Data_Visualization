@@ -54,14 +54,14 @@ The very lowest ranking was seen in 2020 with a net worth of $45 	M. As we see i
 
 ### Visualization 3: House Price of each Unit according to Market Segment for each quarter
 
-![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image5.jpg)
+![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image.jpg)
 
 As the trend keeps on changing the value of the land will also be changed according to certain factors like when inflammation rates are high and crimes rates are high. So, I have summed up the house price per unit area to show the quarterly price as you can see in the below visualization. I also used the filters on month and city for getting the better visualization.
 
  
 ### Visualization 4:Price of property in each city in Florida
 
-![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image6.jpg)
+![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image5.jpg)
 
 In the below geographical map, we can see it is divided into two parts based on the type of hotel. This visualization shows many states included in US however I am concentrating on Florida real estate alone, so I am highlighting the cites along with its price.
 Almost all the states have different prices, where few of the states have less price compared to the population. In Florida, the highest property price was noted in the city Tampa with net worth of $65 M whereas the least prices are noted in the city PalmBay & Branden with 8 M each. We can observe this difference if we see each of these cities in this visualization.
@@ -69,13 +69,13 @@ Almost all the states have different prices, where few of the states have less p
 
 ### Visualization 5:Year Wise prices comparison of Property
 
-![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image7.jpg)
+![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image6.jpg)
 
 The main goal of this visualization is to show the complete prices for all the categories like (Apartments, House and Office) in Property field which we have in the dataset Real estate Florida. If you have a closer look at each category the value keeps on changing for year to year along with the price variations.
 
 ### Visualization 6:Distance Wise Month Price
 
-![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image8.jpg)
+![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/image7.jpg)
 
 Of all the visualizations this one clearly shows the distance between all the cities stated in the dataset. The pie chart is always best to show such difference mainly when dealing with numerical values like percentages, decimals and so on. I am also using calculated field on month by doing sum.
  
