@@ -85,9 +85,11 @@ Of all the visualizations this one clearly shows the distance between all the ci
 
 The above dashboard is an animated dashboard where you get the accurate results if you filter by month. However, I had used filter method for all the countries. This dashboard contains four visualizations related to evolution of growth in real estate business in Florida.
 
+![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/dashboard1.jpg)
 
 ### Dashboard 2:
 
+![Visualization](https://github.com/sripriyank/Growthof_RealEstate_Business_in-Florida_Tableau/blob/main/Images/dashboard2.jpg)
   
 ## Conclusion:
 
