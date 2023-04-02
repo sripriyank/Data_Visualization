@@ -96,13 +96,3 @@ The above dashboard is an animated dashboard where you get the accurate results 
 After doing visualizations with the data I have, I tried to answer all the questions which I have mentioned in the initial project discussions. Price, City are the prime factor in my projects which lets everyone to compare it over years. We can expect this pattern will continue to dominate in the market. 
 We can also see a clear pattern of increase of price in Tampa and decreasing prices in rest of the cities. in the bookings for few months. January month has the highest spike in both.
 
-## Other Research Questions:
-
-## Visualization 7 :Price of property in each city in 2018
- 
-
-## Visualization 8: Price of property in each city in 2020
- 
-
-When I am surfing in web to find relevant information and datasets for my project, I found another interesting prediction that the price of housing in Florida hikes every year. To analyze this trend, I tried a check if this trend is continuing over the decade.
-As we can see from the above visualization the Price value of Tampa is almost equal in both the years whereas the rest of the cities has a drastic change over the year.
