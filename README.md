@@ -24,7 +24,13 @@ My goal is to find some of the research questions like:
 ## Methodology:
 The Real estate Florida dataset holds details of Month of sale, Type of property, Area(ft.), Price, Country, State, it is vast data set which has 119,390 records from different countries. For this project I did data cleanup as our main goal is to focus on visualizations from combining the two datasets available.
 Real estate dataset has House age, Distance to the nearest MRT station, Number of convenience stores, latitude, longitude, house price of unit area, Date, Market segment for the Florida state for the years 2018, 2019 and 2020. I have taken these three years only because I have the property details for only these years.
-Variables which are used in “Real estate Florida” dataset are 
+
+Variables which are used in “Real estate Florida” dataset are
+
+
+
+Variables which are used for visualization in “Real estate”
+
 
 ## Analysis:
 
@@ -70,13 +76,10 @@ Of all the visualizations this one clearly shows the distance between all the ci
 
 The above dashboard is an animated dashboard where you get the accurate results if you filter by month. However, I had used filter method for all the countries. This dashboard contains four visualizations related to evolution of growth in real estate business in Florida.
 
+
 ### Dashboard 2:
 
- 
-### Dashboard 3: 
-To show the comparison price of each city in the year 2018 and 2020 the below dashboard is designed.
-
- 
+  
 ## Conclusion:
 
 After doing visualizations with the data I have, I tried to answer all the questions which I have mentioned in the initial project discussions. Price, City are the prime factor in my projects which lets everyone to compare it over years. We can expect this pattern will continue to dominate in the market. 
